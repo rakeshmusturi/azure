@@ -27,18 +27,20 @@
        }
     ]
   },
-   "groupsMigrationStatus": [
-       {
-          "id": 1,
-           "status": "IN_PROGRESS"
-       },
-       {
-          "id": 2,
-           "status": "SCIM_COMPLETE"
-       },
-      {
-          "id": 3,
-           "status": "CONFIGURED"
-       }
-    ]
+   "landingPageCheck": {
+      "groupsMigrationStatus": [
+          {
+             "id": 1,
+              "status": "IN_PROGRESS"
+          },
+          {
+             "id": 2,
+              "status": "SCIM_COMPLETE"
+          },
+         {
+             "id": 3,
+              "status": "CONFIGURED"
+          }
+       ]
+   }
 }
