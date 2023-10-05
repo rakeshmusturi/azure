@@ -1,6 +1,6 @@
 {
    "groups": {
-    "availableToMigrate": true
+    "availableToMigrate": '{{bool()}}'
   },
    "groupsMigrationStatus": {
       "status": "IN_PROGRESS"
