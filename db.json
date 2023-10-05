@@ -1,5 +1,8 @@
 {
    "groups": {
     "availableToMigrate": true
-  }
+  },
+   "groupsMigrationStatus": {
+      "status": "IN_PROGRESS"
+   }
 }
