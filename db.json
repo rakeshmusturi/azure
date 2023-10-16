@@ -13,18 +13,24 @@
   },
    "landingPageCheck": {
       "groupsMigrationStatus": [
-          /*{
+          {
              "id": 2,
              "status": "IN_PROGRESS"
           },
           {
             "id": 3,
             "status": "SCIM_COMPLETE"
-         },*/
+         },
          {
              "id": 1,
               "status": "TENANT_CONFIGURED"
           }
+       ],
+      "groupsMigrationFinalStatus": [
+          {
+            "id": 3,
+            "status": "SCIM_COMPLETE"
+         }
        ]
    }
 }
