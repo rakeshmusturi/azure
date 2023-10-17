@@ -32,5 +32,61 @@
             "status": "SCIM_COMPLETE"
          }
        ]
-   }
+   },
+   rows: [
+        {
+            attached_groups: 'Kevin’s VM Groups',
+            id: 'a',
+            name:  'Test 3',
+            port: 3000,
+            lastupdated: 'HTTP',
+            rule: 'Round robin',
+            status: <Link disabled href="#">Disabled</Link>
+        },
+        {
+            attached_groups: 'Maureen’s VM Groups',
+            id: 'b',
+            name:  'Test 1',
+            port: 443,
+            lastupdated: 'HTTP',
+            rule: 'Round robin',
+            status: <Link href="#">Starting</Link>
+        },
+        {
+            attached_groups: 'Andrew’s VM Groups',
+            id: 'c',
+            name:  'Test 2',
+            port: 80,
+            lastupdated: 'HTTP',
+            rule: 'DNS delegation',
+            status: <Link href="#">Active</Link>
+        },
+        {
+            attached_groups: 'Marc’s VM Groups',
+            id: 'd',
+            name:  'Test 6',
+            port: 3000,
+            lastupdated: 'HTTP',
+            rule: 'Round robin',
+            status: <Link disabled href="#">Disabled</Link>
+        },
+        {
+            attached_groups: 'Mel’s VM Groups',
+            id: 'e',
+            name:  'Test 4',
+            port: 443,
+            lastupdated: 'HTTP',
+            rule: 'Round robin',
+            status: <Link href="#">Starting</Link>
+        },
+        {
+            attached_groups: 'Ronja’s VM Groups',
+            id: 'f',
+            name:  'Test 5',
+            port: 80,
+            lastupdated: 'HTTP',
+            rule: 'DNS delegation',
+            status: <Link href="#">Active</Link>
+        }
+    ]
 }
