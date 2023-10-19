@@ -11,6 +11,7 @@
        }
     ]
   },
+   "migrateInProgress": true,
    "landingPageCheck": {
       "groupsMigrationStatus": [
           {
