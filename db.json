@@ -1,5 +1,6 @@
 {
    "groups": {
+   "migrateInProgress": true,
     "availableToMigrate": [
        {
           "id": 1,
@@ -11,7 +12,6 @@
        }
     ]
   },
-   "migrateInProgress": true,
    "landingPageCheck": {
       "groupsMigrationStatus": [
           {
