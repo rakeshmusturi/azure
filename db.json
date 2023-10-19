@@ -1,6 +1,7 @@
 {
    "groups": {
    "migrateInProgress": true,
+   "migrateComplete": true,
     "availableToMigrate": [
        {
           "id": 1,
